@@ -1,0 +1,25 @@
+Car Model: BMW
+Car Registration Number: 252146
+Rent Price(RM): 1500.0
+Category: MPV
+------------------------------------------------------
+Car Model: HONDA
+Car Registration Number: 262122
+Rent Price(RM): 25.0
+Category: Compact
+------------------------------------------------------
+Car Model: PVP
+Car Registration Number: 262123
+Rent Price(RM): 16000.0
+Category: MPV
+------------------------------------------------------
+Car Model: ggwp
+Car Registration Number: 252963
+Rent Price(RM): 1654.0
+Category: Compact
+------------------------------------------------------
+Car Model: brb
+Car Registration Number: 980805
+Rent Price(RM): 2254.0
+Category: MPV
+------------------------------------------------------
